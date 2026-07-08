@@ -21,3 +21,4 @@ You can directly download the **`Project.xlsx`** file from this repository. Open
 
 ---
 *I built this project from scratch to practice real-world data cleaning and dashboarding before entering the corporate industry.*
+<img width="1920" height="1080" alt="Screenshot 2026-07-08 181928" src="https://github.com/user-attachments/assets/0ccde810-5e5d-41f3-851d-55ce9c85c64f" />
